@@ -1,3 +1,5 @@
-# cescov91.github.io
+# gomibako-kun_policy
 
-Pagine pubbliche servite da GitHub Pages. `privacy/index.html` è generata dal progetto dell'app con `npm run privacy:page -- ../cescov91.github.io`: non modificarla a mano.
+Informativa privacy di **Gomibako-kun**, pubblicata con GitHub Pages su https://cescov91.github.io/gomibako-kun_policy/.
+
+`index.html` è generata dal progetto dell'app con `npm run privacy:page -- ../gomibako-kun_policy`: non modificarla a mano.
